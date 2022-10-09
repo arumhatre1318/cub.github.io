@@ -1,0 +1,24 @@
+.container{
+	width: 620px;
+	height: 620px;
+	text-align: center;
+	margin: auto;
+	
+}
+
+.container div{
+	width: 194px;
+    margin: 7px 5px;
+    display: inline-block;
+    border-radius: 6px;
+    color: #fff;
+    font-family: arial;
+    font-size: 21px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 80px 0;
+    box-shadow: 0 1px 9px 0 rgb(44 44 45 / 49%)
+}
+
+
+
